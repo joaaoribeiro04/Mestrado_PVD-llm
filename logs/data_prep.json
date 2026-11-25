@@ -1,0 +1,47 @@
+{
+  "fonte": "E-REDES Open Data Portal - Consumos por municipio por periodo tarifario",
+  "url": "https://e-redes.opendatasoft.com/explore/dataset/consumos-faturados-por-periodo-tarifario/information/",
+  "licenca": "CC BY 4.0",
+  "linhas_brutas": 103760,
+  "linhas_agregadas_sem_concelho": 0,
+  "harmonizacao": "regra",
+  "concelhos": 278,
+  "datas_invalidas": 0,
+  "nulos_por_periodo": {
+    "Simples": 145,
+    "Vazio": 6,
+    "Fora de vazio": 615,
+    "Super vazio": 13787,
+    "Ponta": 793,
+    "Cheias": 341,
+    "total": 0
+  },
+  "ajustes_negativos_por_periodo": {
+    "Simples": 4,
+    "Vazio": 2,
+    "Fora de vazio": 12,
+    "Super vazio": 1,
+    "Ponta": 2,
+    "Cheias": 2,
+    "total": 5
+  },
+  "duplicados_data_freguesia": 0,
+  "periodo": [
+    "2023-01",
+    "2025-12"
+  ],
+  "linhas_canonicas": 726320,
+  "concelhos_finais": 278,
+  "distritos": 18,
+  "freguesias": 2890,
+  "categorias_tarifarias": [
+    "Cheias",
+    "Fora de vazio",
+    "Ponta",
+    "Simples",
+    "Super vazio",
+    "Vazio"
+  ],
+  "nulos_periodos_preenchidos_com_zero": 15687,
+  "total_vs_soma_periodos_max_abs_kwh": 0.0
+}

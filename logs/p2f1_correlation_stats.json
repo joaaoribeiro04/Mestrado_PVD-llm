@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "kind": "correlação",
+    "n": 278,
+    "pearson_r": 0.16,
+    "pearson_p": 0.0059,
+    "spearman_rho": 0.22,
+    "slope_por_decada_freguesias": 147.01,
+    "r2": 0.03,
+    "x": "freguesias por concelho (log10)",
+    "y": "energia ativa total (GWh/ano)"
+  },
+  "meta": {
+    "title": "Mais freguesias associam-se a maior consumo total (r = 0.16)",
+    "caption": "Associação linear positiva fraca (Pearson r = 0.16, p = 0.0059; Spearman ρ = 0.22; n = 278 concelhos). R² = 0.03: o ajuste linear descreve parte da variação observada. Associação não implica causalidade.",
+    "source": "regra"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "kind": "série temporal",
+    "periodo": "2023-2025",
+    "slope_gwh_por_ano": 1120.8,
+    "variacao_anual_pct": 2.4,
+    "r2": 0.97,
+    "p": 0.11,
+    "variacao_lowess_pct": 6.9,
+    "mes_pico": 1,
+    "mes_minimo": 4,
+    "razao_pico_minimo": 1.19,
+    "unidade": "GWh"
+  },
+  "meta": {
+    "title": "A energia ativa total aumenta 2.4% ao ano (2023-2025)",
+    "caption": "Regressão linear sobre totais anuais: 1120.8 GWh/ano (R² = 0.97, p = 0.11). LOWESS: +6.9% entre início e fim. Pico médio no mês 1, mínimo no mês 4 (razão 1.19x).",
+    "source": "regra"
+  }
+}

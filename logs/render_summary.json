@@ -1,0 +1,98 @@
+[
+  {
+    "id": "p1f1_aesthetics",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_aesthetics",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p1f1_color_scales",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_color_scales",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p1f2_cat_setor",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_bar",
+    "cardinality": 6,
+    "error": ""
+  },
+  {
+    "id": "p1f2_cat_norte",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_dotplot",
+    "cardinality": 18,
+    "error": ""
+  },
+  {
+    "id": "p1f2_cat_heatmap",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_heatmap",
+    "cardinality": 278,
+    "error": ""
+  },
+  {
+    "id": "p1f2_distributions",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_distributions",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p1f2_multivariate",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_multivariate",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p1f2_treemap",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_treemap",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p2f1_correlation",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_scatter_corr",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p2f1_timeseries",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_timeseries",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p2f2_bar_zero",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_bar_zero",
+    "cardinality": null,
+    "error": ""
+  },
+  {
+    "id": "p2f2_cvd",
+    "rendered": true,
+    "renderer": "deterministic template; LangGraph not invoked",
+    "template": "t_cvd",
+    "cardinality": null,
+    "error": ""
+  }
+]

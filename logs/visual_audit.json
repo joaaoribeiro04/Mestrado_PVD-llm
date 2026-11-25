@@ -1,0 +1,9 @@
+{
+  "data_auditoria": "2026-11-25",
+  "tipo": "auditoria estatica dos scripts de figura",
+  "scripts_analisados": 12,
+  "regras": ["color", "bar_zero", "cvd"],
+  "scripts_sem_alertas": 12,
+  "scripts_com_alertas": 0,
+  "resultado": "Sem problemas detetados pelas regras estaticas configuradas."
+}

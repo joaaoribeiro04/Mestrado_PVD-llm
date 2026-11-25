@@ -1,0 +1,14 @@
+# Já instalados no teu venv (aula): langchain, langchain-core, langchain-ollama, langgraph, python-dotenv
+# Em falta (gráficos e dados):
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+pillow>=10.0
+# Núcleo LLM:
+langchain-core>=0.3
+langgraph>=0.2
+langchain-ollama>=0.2
+python-dotenv>=1.0
+# Outros fornecedores (opcional): langchain-google-genai | langchain-groq | langchain-openai
